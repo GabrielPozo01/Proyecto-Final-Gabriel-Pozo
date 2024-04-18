@@ -1,0 +1,30 @@
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.csproj.AssemblyReference.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.AssemblyInfoInputs.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.AssemblyInfo.cs
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.csproj.CoreCompileInputs.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Ejecutable auto.exe
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Ejecutable auto.deps.json
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Ejecutable auto.runtimeconfig.json
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Ejecutable auto.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Ejecutable auto.pdb
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\nunit.framework.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\nunit.framework.legacy.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\WebDriver.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Proyecto final automatizado.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\bin\Debug\net7.0\Proyecto final automatizado.pdb
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutab.1B86D0AE.Up2Date
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\refint\Ejecutable auto.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.pdb
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\Ejecutable auto.genruntimeconfig.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Ejecutable auto\obj\Debug\net7.0\ref\Ejecutable auto.dll
