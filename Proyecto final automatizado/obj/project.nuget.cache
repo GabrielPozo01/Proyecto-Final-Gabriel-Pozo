@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3K8NmfhcTpPdtjCYYo1GKXjwyxSaNTWvpOuvoHSAzF1iV3eWbd6jlWz0E9/C0kRarhH7f7Lpjny/JEtdpIgzA==",
+  "success": true,
+  "projectFilePath": "C:\\Gabriel Arnaldo Pozo Tavarez\\ITLA\\Cuatrimestre 6\\Programacion III\\Proyecto final automatizado\\Proyecto final automatizado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\selenium.webdriver.msedgedriver\\123.0.2420.65\\selenium.webdriver.msedgedriver.123.0.2420.65.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

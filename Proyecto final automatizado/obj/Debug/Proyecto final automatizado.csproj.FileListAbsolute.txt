@@ -1,0 +1,27 @@
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Proyecto final automatizado.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Proyecto final automatizado.pdb
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\nunit.framework.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\nunit.framework.legacy.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\WebDriver.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\obj\Debug\Proyecto final automatizado.csproj.AssemblyReference.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\obj\Debug\Proyecto final automatizado.csproj.CoreCompileInputs.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\obj\Debug\Proyecto.4A1EF28D.Up2Date
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\obj\Debug\Proyecto final automatizado.dll
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 6\Programacion III\Proyecto final automatizado\obj\Debug\Proyecto final automatizado.pdb
